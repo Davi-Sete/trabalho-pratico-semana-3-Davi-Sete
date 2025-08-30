@@ -8,17 +8,16 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Davi Sete Simoes
+- Matricula: 898682
+- Proposta de projeto escolhida: Proposta 4
+- Breve descrição sobre seu projeto: Uma paródia do site do "spotify" com playlists criadas para momentos específicos e vários estilos musicais.
 
 
 ## Print do(s) wireframe(s) criado
 
-<<  COLOQUE A IMAGEM AQUI >>
-
+![wireframe](wireframe.png)
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![homepage](homepagespotify.jpeg)
